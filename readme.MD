@@ -1,1 +1,4 @@
-# Dosa shop started   
+# Dosa shop
+
+## plain dosa
+* dosa batter
